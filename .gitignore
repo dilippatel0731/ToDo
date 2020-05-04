@@ -32,6 +32,4 @@ build/
 
 /.mvn/
 /target/
-mvnw
-mvnw.cmd
 /bin/
